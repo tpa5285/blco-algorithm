@@ -30,12 +30,19 @@ scikit-learn
 blco-algorithm/
 
 ├── blco/
+
 │   ├── __init__.py
+
 │   └── blco.py                   ← main algorithm code
+
 ├── examples/
+
 │   ├── example_usage.py          ← Basic Python example
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── LICENSE                       
 
 
